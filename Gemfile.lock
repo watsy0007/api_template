@@ -2,7 +2,6 @@ GEM
   remote: https://gems.ruby-china.org/
   specs:
     backports (3.6.8)
-    byebug (9.0.6)
     multi_json (1.12.1)
     rack (1.6.5)
     rack-protection (1.5.3)
@@ -28,7 +27,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  byebug
   sinatra
   sinatra-reloader
 
